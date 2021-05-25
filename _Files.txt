@@ -1,0 +1,48 @@
+= File =		Description
+Sample			Sample starter
+HelloWorld		Simple HelloWorld
+Variables		Variables, Comments, Data Types, Type Casting
+Operators		Operators
+Strings			Strings
+JavaMath		Math
+Booleans		Booleans
+IfElse			If Else Statements
+Switch			Switch Statements
+Loops			While, For, For Each
+Breaks			Break, Continue
+Arrays			Arrays
+Methods			Methods
+
+Other Files:
+CreateFile		Creates a new empty .txt file called FileName
+ReadFile		Reads Sample.txt
+GetFileInfo		Returns file info of Sample.txt
+
+UserInputA		Returns user input: enter anything
+UserInputB		Returns user input: enter name, age, salary
+UserInputC		Returns user input: all Types
+
+InputNumFindTotal	Input numbers to find a total
+
+StudentGrades	Calculates grades given a .txt file
+
+Imports			All Imports Used
+
+InterfaceExample	Example of using interfaces
+
+
+public class Main {
+	public static void main(String[] args) {
+
+		System.out.println("x");
+
+	/*
+	Sources
+		x
+	*/
+	}
+}
+
+NEXT
+https://www.w3schools.com/java/java_methods_overloading.asp
+for Methods.java
